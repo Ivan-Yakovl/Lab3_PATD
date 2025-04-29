@@ -1,0 +1,17 @@
+=== Testing Int Stack (5 elements) ===
+Top element: 50
+Popped elements: 50 40 30 20 10 
+
+=== Testing String Stack (3 elements) ===
+Stack contents: Stack World Hello 
+
+=== Testing Complex Stack (2 elements) ===
+Top complex number: -4.2+0.5i
+Next complex number: 1.5+2.3i
+
+=== Testing Person Stack (2 students) ===
+Students after removal:
+Student: Petr Petrovich Petrov, ID: S54321
+
+=== Error Handling Test ===
+Caught exception: Stack is empty
